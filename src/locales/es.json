@@ -1,0 +1,87 @@
+{
+  "common": {
+    "seeAll": "Ver Todo",
+    "addToCart": "Añadir al Carro",
+    "currencySymbol": "$",
+    "categories": "Categorias",
+    "categoriesList": {
+      "mugs": ["Nuevo", "Té", "Materos", "Tazones"],
+      "teapots": ["New", "Grandes", "Medianas","Chicas"]
+    }
+  },
+  "header": {
+    "currency": "Moneda",
+    "language": "Idiomas",
+    "english":  "Inglés",
+    "spanish": "Español",
+    "seeCart": "Ver Carro",
+    "settings": "Configuración",
+    "menus": {
+      "home": "Inicio",
+      "about": "Nosotros",
+      "sets": "Set de Té",
+      "mugs": "Tazas",
+      "teapots": "Teteras",
+      "contact": "Contacto"
+    }
+  },
+  "footer": {
+    "text": "Manos talentosas que pintan diseños únicos, familia apañadora y amigos incondicionales son parte importante de esta empresa en crecimiento."
+  },
+  "index": {
+    "newMugs": "Tazas Nuevas",
+    "newMugsDescription": "Aquí podrás encontrar nuestros últimos productos de tazas.",
+    "newTeapots": "Teteras Nuevas",
+    "newTeapotsDescription": "Aquí podrás encontrar nuestros últimos productos de teteras."
+  },
+  "singleProduct": {
+    "availability": "Disponible",
+    "quantity": "Cantidad:",
+    "inStock": "En Stock",
+    "outOfStock": "Sin Stock"
+  },
+  "shopGrid": {
+    "descriptions": {
+      "mugs": "Mugs Description Mugs Description Mugs Description Mugs Description",
+      "teapots": "Teapots Description Teapots Description Teapots Description Teapots Description"
+    },
+    "showing": "mostrando",
+    "of": "de",
+    "results": "resultados",
+    "sortBy": "Ordenar por",
+    "all": "Todos",
+    "sortOptions": {
+      "newest": "Nuevos",
+      "nameAZ": "Nombre: A a Z",
+      "nameZA": "Nombre: Z to A",
+      "priceL2H": "Precio: Menor a Mayor",
+      "priceH2L": "Precio: Mayor a Menor"
+    }
+  },
+  "about": {
+    "ourStory": "Nuestra Historia",
+    "story": "Té de tetera es una marca chilena que busca que disfrutes del té en vajilla personalizada y única. Nos caracterizamos por crear diseños propios y a tu gusto para entregar el mejor momento para ti y tus cercanos a la hora de compartir un rico té. “Té de Tetera” nace en Noviembre de 2017, buscando compatibilizar crianza en casa y trabajo. Llegamos a Santiago desde el sur de Chile donde el té es parte esencial de todas las casas y las sobremesas son de largo aliento, una linda loza o porcelana pintada a mano y hecha de manera personalizada es un complemento para una buena conversación y generar recuerdos para toda la vida. Te invitamos a conocernos!",
+    "meetOurTeam": "Nuestro Equipo",
+    "gloriaName": "Gloria David",
+    "gloriaRole": "Fundadora",
+    "catName": "Benito",
+    "catRole": "Supervisor de Packing"
+  },
+  "contact": {
+    "getInTouch": "Contactanos",
+    "shortTextGetInTouch": "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.",
+    "firstName": "Nombre*",
+    "lastName": "Apellido*",
+    "email": "Email*",
+    "website": "Sitio Web*",
+    "subject": "Asunto*",
+    "messagePlaceholder": "Escribe tu mensaje aquí...",
+    "sendEmail": "Enviar Mensaje",
+    "officeInfo": "Información",
+    "shortTextOfficeInfo": "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.",
+    "address": "Dirección",
+    "phoneNumber": "Número de Teléfono",
+    "emailAddress": "Correo electrónico",
+    "websiteAddress": "Sitio Web"
+  }
+}

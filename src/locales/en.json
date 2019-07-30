@@ -1,0 +1,87 @@
+{
+    "common": {
+      "seeAll": "See All",
+      "addToCart": "Add to Cart",
+      "currencySymbol": "$",
+      "categories": "Categories",
+      "categoriesList": {
+        "mugs": ["New", "Tea", "Mate", "Big Mugs!"],
+        "teapots": ["New", "Big Size", "Medium Size", "Small Size"]
+      }
+    },
+    "header": {
+      "currency": "Currency",
+      "language": "Language",
+      "english":  "English",
+      "spanish": "Spanish",
+      "seeCart": "See Cart",
+      "settings": "Settings",
+      "menus": {
+        "home": "Home",
+        "about": "About",
+        "sets": "Tea Sets",
+        "mugs": "Mugs",
+        "teapots": "Teapots",
+        "contact": "Contact"
+      }
+    },
+    "footer": {
+      "text": "Talented hands that paint unique designs plus an amazing family and unconditional friends, are important parts in this growing company."
+    },
+    "index": {
+      "newMugs": "New Mugs",
+      "newMugsDescription": "You can check our new latest Mugs products here.",
+      "newTeapots": "New Teapots",
+      "newTeapotsDescription": "You can check our New latest Teapots products here."
+    },
+    "singleProduct": {
+      "availability": "Availability",
+      "quantity": "Qty:",
+      "inStock": "In Stock",
+      "outOfStock": "Out of Stock"
+    },
+    "shopGrid": {
+      "descriptions": {
+        "mugs": "Mugs Description Mugs Description Mugs Description Mugs Description",
+        "teapots": "Teapots Description Teapots Description Teapots Description Teapots Description"
+      },
+      "showing": "Showing",
+      "of": "of",
+      "results": "results",
+      "sortBy": "Sort By",
+      "all": "All",
+      "sortOptions": {
+        "newest": "Newest",
+        "nameAZ": "Name: A to Z",
+        "nameZA": "Name: Z to A",
+        "priceL2H": "Price: Low to High",
+        "priceH2L": "Price: High to Low"
+      }
+    },
+    "about": {
+      "ourStory": "Our Story",
+      "story": "‘Te de Tetera’ is a Chilean brand seeking to give you the experience of enjoying tea in personalized and unique pottery. \nWe are known for creating custom designs for you, to deliver the best moments for you and your closest companions when it comes to sharing a delicious tea.\n‘Te de Tetera’ began in November 2017, looking to balance raising my daughter and working from home. \nWe arrived in Santiago from southern Chile, where tea is essential in everyone’s  home, The perfect time for tea is most commonly after a meal and a beautiful custom personalized hand-painted teapot or porcelain makes for a great conversation and can create memories for a lifetime. \nWe invite you to get to know us!",
+      "meetOurTeam": "Meet our team",
+      "gloriaName": "Gloria David",
+      "gloriaRole": "Founder",
+      "catName": "Benito the Cat",
+      "catRole": "Packing Supervisor"
+    },
+    "contact": {
+      "getInTouch": "Get in touch",
+      "shortTextGetInTouch": "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.",
+      "firstName": "First Name*",
+      "lastName": "Last Name*",
+      "email": "Email*",
+      "website": "Website*",
+      "subject": "Subject*",
+      "messagePlaceholder": "Type your message here...",
+      "sendEmail": "Send Email",
+      "officeInfo": "Office Info",
+      "shortTextOfficeInfo": "Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.",
+      "address": "Address",
+      "phoneNumber": "Phone Number",
+      "emailAddress": "Email address",
+      "websiteAddress": "Website Address"
+    }
+  }

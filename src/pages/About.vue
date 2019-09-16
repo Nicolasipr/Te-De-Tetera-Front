@@ -47,7 +47,7 @@
         </b-col>
       </b-row>
 <!--      Benito -->
-      <b-row class="d-flex justify-content-end"  >
+      <b-row class="d-flex justify-content-end align-items-center"  >
 <!--        Description-->
         <b-col lg="8" md="8" sm="6" cols="12">
           <!--          Description -->

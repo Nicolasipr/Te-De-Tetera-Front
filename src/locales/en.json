@@ -60,12 +60,20 @@
     },
     "about": {
       "ourStory": "Our Story",
-      "story": "‘Te de Tetera’ is a Chilean brand seeking to give you the experience of enjoying tea in personalized and unique pottery. \nWe are known for creating custom designs for you, to deliver the best moments for you and your closest companions when it comes to sharing a delicious tea.\n‘Te de Tetera’ began in November 2017, looking to balance raising my daughter and working from home. \nWe arrived in Santiago from southern Chile, where tea is essential in everyone’s  home, The perfect time for tea is most commonly after a meal and a beautiful custom personalized hand-painted teapot or porcelain makes for a great conversation and can create memories for a lifetime. \nWe invite you to get to know us!",
+      "story": "‘Te de Tetera’ is a Chilean brand seeking to give you the experience of enjoying tea in personalized and unique pottery. We are known for creating custom designs for you, to deliver the best moments for you and your closest companions when it comes to sharing a delicious tea.‘Te de Tetera’ began in November 2017, looking to balance raising my daughter and working from home. We arrived in Santiago from southern Chile, where tea is essential in everyone’s  home, The perfect time for tea is most commonly after a meal and a beautiful custom personalized hand-painted teapot or porcelain makes for a great conversation and can create memories for a lifetime. We invite you to get to know us!",
       "meetOurTeam": "Meet our team",
       "gloriaName": "Gloria David",
       "gloriaRole": "Founder",
+      "gloriaDescription1":  "I am a Business Administrator, but my passion for drawing has been present for as long as I can remember, I painted or crafted everything I could and almost magically I was put on a this path on becoming a women entrepreneur when my daughter Violeta entered my life.",
+      "gloriaDescription2":  "Every single day I study and search new option for making ´Té de Tetera´ a bigger business with a lot colors and heart.",
+      "gloriaDescription3":  "I lived surrounded by southern nature and beautiful landscapes I want to put in my teapots, so you can bring to your table something unique and created only for you.",
       "catName": "Benito the Cat",
-      "catRole": "Packing Supervisor"
+      "catRole": "Packing Supervisor",
+      "catDescription1":  "You can call me Mr. Benito I supervise from my comfortable couch all shipments to all of Chile and the world.",
+      "catDescription2":  "My weakness is cardboard boxes, any size and shape, I test the quality and verify that your order will be packed perfectly and will arrive in optimum condition to your destination.",
+      "violeName":  "The Viole",
+      "violePole": "Inspiring Muse",
+      "violeDescription": "I´m an innate photographer and CEO of my special line for toddlers ´Té de Taza´ like moms Té de Tetera… tremble of fear mom…it’s hereditary!"
     },
     "contact": {
       "getInTouch": "Get in touch",

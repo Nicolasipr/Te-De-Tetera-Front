@@ -64,8 +64,16 @@
     "meetOurTeam": "Nuestro Equipo",
     "gloriaName": "Gloria David",
     "gloriaRole": "Fundadora",
+    "gloriaDescription1":  "Si bien soy Administradora de empresas mi pasión por el dibujo está desde que tengo conciencia, todo lo pintaba, recortaba o intervenía y de manera casi mágica me embarque en este camino de ser una mujer emprendedora cuando Violeta llegó a mi vida.",
+    "gloriaDescription2":  "Cada día me capacito y busco nuevas herramientas para hacer de Te de tetera una gran empresa llena de colores y mucho corazón.",
+    "gloriaDescription3":  "Viví rodeada de naturaleza sureña y es esa belleza la que busco plasmar en mis teteras, para que puedas llevar a tu mesa algo único y creado especialmente para ti.",
     "catName": "Benito",
-    "catRole": "Supervisor de Packing"
+    "catRole": "Supervisor de Packing",
+    "catDescription1":  "Pueden llamarme Don Benito, superviso desde mi cómodo sillón todos los envíos a todo Chile y el mundo.",
+    "catDescription2":  "Mi debilidad son las cajas de cartón, independiente del tamaño le hago un testeo de calidad y verifico que tu pedido este perfectamente embalado y llegue impecable a destino.",
+    "violeName":  "La Viole",
+    "violePole": "Musa Inspiradora",
+    "violeDescription": "Soy Musa Inspiradora, fotógrafa innata y CEO cree una línea especial para toddlers llamada “Té de taza”... tiembla Te de tetera, lo que se hereda no se hurta!"
   },
   "contact": {
     "getInTouch": "Contactanos",

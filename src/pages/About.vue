@@ -52,11 +52,9 @@
         <b-col lg="8" md="8" sm="6" cols="12">
           <!--          Description -->
           <div class="text-justify ">
-            <p> {{$t('about.gloriaDescription1')}}</p>
+            <p> {{$t('about.catDescription1')}}</p>
             <br>
-            <p>{{$t('about.gloriaDescription2')}}  </p>
-            <br>
-            <p>{{$t('about.gloriaDescription3')}}  </p>
+            <p>{{$t('about.catDescription2')}}  </p>
           </div>
         </b-col>
         <!--        card -->
@@ -81,8 +79,8 @@
               <img src="../assets/images/about/team/viole.jpg" alt="Team images">
             </div>
             <div class="content text-center">
-              <h4>{{$t('about.gloriaName')}}</h4>
-              <p>{{$t('about.gloriaRole')}}</p>
+              <h4>{{$t('about.violeName')}}</h4>
+              <p>{{$t('about.violeRole')}}</p>
 
             </div>
           </div>
@@ -90,23 +88,8 @@
         <b-col lg="8" md="8" sm="6" cols="12">
           <!--          Description -->
           <div class="text-justify ">
-            <p>
-              Si bien soy Administradora de empresas mi pasión por el dibujo está desde que tengo
-              conciencia, todo lo pintaba, recortaba o intervenía y de manera casi mágica me embarque
-              en este camino de ser una mujer emprendedora cuando Violeta llegó a mi vida.
-
-
-            </p>
+            <p> {{$t('about.violeDescription')}}</p>
             <br>
-            <p>
-              Cada día me capacito y busco nuevas herramientas para hacer de Te de tetera una gran
-              empresa llena de colores y mucho corazón.
-            </p>
-            <br>
-            <p>
-              Viví rodeada de naturaleza sureña y es esa belleza la que busco plasmar en mis teteras,
-              para que puedas llevar a tu mesa algo único y creado especialmente para ti.
-            </p>
           </div>
         </b-col>
       </b-row>
